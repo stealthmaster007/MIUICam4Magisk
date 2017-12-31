@@ -1,7 +1,7 @@
-id=Sony-Music4Magisk
-name=Sony-Music4Magisk
-version=9.3.11.A.0.3-19357699
-versionCode=9
-author=utkarshp64
-description=This Magisk module will install systemless sony music application in any magisk supported device. Sony Music app - by Sony Mobile Communications.
+id=MIUICam-Mod
+name=MIUICam-Mod
+version=v1
+versionCode=1
+author=stealthmaster
+description=A magisk module to install MIUI Cam systemlessly. 
 template=1400
