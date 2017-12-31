@@ -42,8 +42,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "***********************************"
-  ui_print "      Sony-Music4Magisk Module     "
-  ui_print "********** by Utkarshp64 **********"
+  ui_print "   MIUICam-Mod by stealthmaster    "
+  ui_print "***********************************"
 }
 
 ##########################################################################################
@@ -66,7 +66,6 @@ REPLACE="
 # Construct your own list here, it will overwrite the example
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/system/app/com.sonyericsson.music
 "
 
 ##########################################################################################
